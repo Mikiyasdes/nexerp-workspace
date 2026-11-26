@@ -1,3 +1,4 @@
-[submodule "modules/accounting"]
-	path = modules/accounting
-	url = https://github.com/Mikiyasdes/nexerp-accounting.git
+[submodule "erpnext"]
+	path = erpnext
+	url = https://github.com/Mikiyasdes/erpnext.git
+	branch = nexerp/decomposition-v16
